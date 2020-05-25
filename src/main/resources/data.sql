@@ -1,0 +1,9 @@
+INSERT INTO FASTAG_CUSTOMER (FASTAG_ID ,CURRENT_BALANCE ,CUSTOMER_NAME ,PHONE ) 
+values(100, 1000,'Hrushikesh Nalawade', '1234567890'),
+(101,1500, 'Ashish Ghate', '9876543212'),
+(102, 2000,'Shekhar Nanaware', '1212121212');
+
+
+				
+		 
+		
